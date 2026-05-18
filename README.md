@@ -1,11 +1,12 @@
 # 🩺 Diabetes Detection
 
+> ⚠️ Proyecto con fines educativos y de investigación.
+
 ![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> ⚠️ Proyecto con fines educativos y de investigación.
 > **Sistema automatizado de Machine Learning para la detección de diabetes utilizando múltiples datasets, validación cruzada y optimización de hiperparámetros.**
 
 ---
