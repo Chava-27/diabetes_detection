@@ -227,7 +227,7 @@ Esto permite seleccionar automáticamente la mejor combinación de hiperparámet
 1. Clonar el repositorio
 
 ```text
-git clone https://github.com/tu-usuario/diabetes_detection.git
+git clone https://github.com/Chava-27/diabetes_detection.git
 cd diabetes_detection
 ```
 
