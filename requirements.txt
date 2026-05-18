@@ -1,0 +1,45 @@
+---
+
+# requirements.txt
+
+```txt
+# ============================================================
+# Diabetes Detection - Dependencias del Proyecto
+# ============================================================
+# Instalar con:
+#     pip install -r requirements.txt
+# ============================================================
+
+# Manipulación de datos
+pandas>=2.2.0
+numpy>=2.2.0
+
+# Machine Learning
+scikit-learn>=1.7.0
+
+# Gradient Boosting (opcional)
+xgboost>=3.0.0
+
+# Persistencia de modelos
+joblib>=1.5.0
+
+# Visualización
+matplotlib>=3.10.0
+seaborn>=0.13.0
+
+# Notebooks
+jupyter>=1.1.0
+ipykernel>=6.29.0
+
+# Utilidades
+tqdm>=4.67.0
+
+# Exportación de tablas (opcional)
+openpyxl>=3.1.0
+
+# Compatibilidad con archivos comprimidos y Kaggle API (opcional)
+kaggle>=1.7.0
+
+# Desarrollo y calidad de código (opcional)
+black>=25.1.0
+flake8>=7.3.0
