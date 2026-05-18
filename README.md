@@ -226,7 +226,7 @@ Esto permite seleccionar automáticamente la mejor combinación de hiperparámet
 
 1. Clonar el repositorio
 
-```text
+```bash
 git clone https://github.com/Chava-27/diabetes_detection.git
 cd diabetes_detection
 ```
@@ -234,21 +234,21 @@ cd diabetes_detection
 2. Crear un entorno virtual
    Windows
 
-```text
+```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
 Linux/macOS
 
-```text
+```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
 
 3. Instalar dependencias
 
-```text
+```bash
 pip install -r requirements.txt
 ```
 
@@ -256,13 +256,13 @@ pip install -r requirements.txt
 
 Copia tus archivos .csv dentro de:
 
-```text
+```bash
 data/raw/
 ```
 
 5. Ejecutar el proyecto
 
-```text
+```bash
 python -m src.main
 ```
 
