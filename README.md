@@ -7,6 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+> ⚠️ Proyecto con fines educativos y de investigación.
 ---
 
 ## 📌 Descripción General
